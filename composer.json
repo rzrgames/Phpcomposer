@@ -1,6 +1,6 @@
 {
   "require": {
     "php": "^8.1",
-    "php-ffmpeg/php-ffmpeg": "^2.6.0"
+    "php-ffmpeg/php-ffmpeg": "^1.2.0"
   }
 }
